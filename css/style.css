@@ -65,8 +65,7 @@ img {
   color: var(--primary-button-color);
   text-decoration: none;
   display: block;
-  padding-top: 24px;
-  padding-bottom: 24px;
+
   margin-right: 77px;
 
 
@@ -429,5 +428,6 @@ ul,ol {
   padding-left: 16px;
   background: #FFFFFF;
   border: 1px solid #E7E9FC;
+  border-top: none;
   
 }
